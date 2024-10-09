@@ -1,0 +1,2 @@
+2024-10-09T08:24:25.760Z - ERROR: Failed to load config: Error: ENOENT: no such file or directory, open '/home/project/config.json'
+2024-10-09T08:24:25.772Z - ERROR: No accounts found in config

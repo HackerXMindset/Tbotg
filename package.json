@@ -1,0 +1,11 @@
+{
+  "name": "telegram-multi-account-commenter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegram": "^2.15.5",
+    "input": "^1.0.1"
+  }
+}

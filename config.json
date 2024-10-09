@@ -1,0 +1,48 @@
+{
+    "accounts": [
+        {
+            "phone": "+919905919471",
+            "api_id": 21654544,
+            "api_hash": "1f7182d2de46aafe7a056a0c48cd6481",
+            "channels": [
+                {
+                    "username": "@notpixelindiahindi",
+                    "comment": "Hi"
+                }
+            ]
+        },
+        {
+            "phone": "+919361439493",
+            "api_id": 22021400,
+            "api_hash": "198d9c77eaf84ac2f3e6a38b678c92f2",
+            "channels": [
+                {
+                    "username": "@notpixelindiahindi",
+                    "comment": "Blum"
+                }
+            ]
+        },
+        {
+            "phone": "+918761931708",
+            "api_id": 16185785,
+            "api_hash": "06ca68f8caae189fae12dc644a382ad4",
+            "channels": [
+                {
+                    "username": "@notpixelindiahindi",
+                    "comment": "wassup?"
+                }
+            ]
+        },
+        {
+            "phone": "+919579374082",
+            "api_id": 27530279,
+            "api_hash": "35c179af01606a678d200e0f08e1c98f",
+            "channels": [
+                {
+                    "username": "@notpixelindiahindi",
+                    "comment": "Listing?"
+                }
+            ]
+        }
+    ]
+}
